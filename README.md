@@ -1,4 +1,3 @@
-# WSCNet
 # Weakly Supervised Coupled Networks for Visual Sentiment Analysis
 
 By Jufeng Yang, Dongyu She, Yu-Kun Lai, Paul L. Rosin and Ming-Hsuan Yang
