@@ -32,9 +32,10 @@ If you find our framework useful in your research, please consider citing:
 
 ### Requirements
 
-Our code is written by Python, based on [Pytorch](https://pytorch.org/) (Version ≥ 1.0).
+Our code is written by Python, based on [Pytorch](https://pytorch.org/) (Version ≥ 1.0)
 
 NVIDIA GTX TITANX (~12G of memory)
+
 
 ### Dataset config
 
@@ -44,28 +45,28 @@ Train/val/test split is available here [here](https://pan.baidu.com/s/1YLludq6JY
 ### Usage
 
 1. Clone the repository
-```Shell
-git clone https://github.com/sherleens/WSCNet.git
-```
+    ```Shell
+    git clone https://github.com/sherleens/WSCNet.git
+    ```
 
 2. Download dataset config and put the split images into `$ROOT_DIR/dataset/FI/` folder. The folders are arranged like this:
-```
-FI
-├── train
-│   ├── classname1
-│   │   ├──xx.jpg
-│   │   ├──...
-│   ├── classname2
-│   │   ├──...
-│   ├── ...
-├── val
-│   ├── classname1
-│   │   ├──xx.jpg
-│   │   ├──...
-│   ├── classname2
-```
+    ```Shell
+    FI
+    ├── train
+    │   ├── classname1
+    │   │   ├──xx.jpg
+    │   │   ├──...
+    │   ├── classname2
+    │   │   ├──...
+    │   ├── ...
+    ├── val
+    │   ├── classname1
+    │   │   ├──xx.jpg
+    │   │   ├──...
+    │   ├── classname2
+    ```
 
-3. Go into the folder `$ROOT_DIR/scripts/`. Then you can train the deep network by running 'WSCNet-Res101_train.ipynb' on the FI dataset.
+3. Go into the folder `$ROOT_DIR/scripts/`. Then you can train the deep network by running `WSCNet-Res101_train.ipynb` on the FI dataset.
 
 
 ### Our trained models
