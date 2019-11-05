@@ -39,7 +39,7 @@ NVIDIA GTX TITANX (~12G of memory)
 
 ### Dataset config
 
-Train/val/test split is available here [here](https://pan.baidu.com/s/1YLludq6JYQZcCIEXgiMH2Q) (password: r2bm) for the FI. Other dataset splits can be downloaded [here](https://pan.baidu.com/s/1GNqdmGzPpd7YLfqkJQpxwQ) (password: xay5).
+Train/val/test split is available [here](https://pan.baidu.com/s/1YLludq6JYQZcCIEXgiMH2Q) (password: r2bm) for the FI. And splits for other dataset can be downloaded [here](https://pan.baidu.com/s/1GNqdmGzPpd7YLfqkJQpxwQ) (password: xay5).
 
 
 ### Usage
